@@ -1,0 +1,12 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.judul{
+    text-align: center;
+    background-color: aquamarine;
+}
+
+.isi{
+    padding: 20px;
+}
